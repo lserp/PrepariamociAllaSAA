@@ -7,3 +7,12 @@ accessibile gratuitamente se tu o la tua azienda fate parte della [AWS Partner N
 ✏️  Se tu o la tua azienda non siete ancora registrati come AWS Partner, potete farlo [qui](https://partnercentral.awspartner.com/selfregisterpartner). 
 
 ℹ️  Per maggiori informazioni sul AWS Partner Network -o APN- dai un'occhiata [qui](https://aws.amazon.com/it/partners/)
+
+Episodio | Di cosa abbiamo parlato...
+------------ | -------------
+Uno | Introduzione al programma, 
+Due | TBD
+Tre | TBD
+Quattro | TBD
+Cinque | TBD
+Sei | TBD
