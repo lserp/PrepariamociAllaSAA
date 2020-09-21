@@ -10,7 +10,7 @@ accessibile gratuitamente se tu o la tua azienda fate parte della [AWS Partner N
 
 Episodio | Di cosa abbiamo parlato...
 ------------ | -------------
-Uno | Introduzione al programma, 
+[Uno](ep1/ep1.risorse.md) | Introduzione al programma, 
 Due | TBD
 Tre | TBD
 Quattro | TBD
