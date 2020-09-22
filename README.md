@@ -8,6 +8,8 @@ accessibile gratuitamente se tu o la tua azienda fate parte della [AWS Partner N
 
 ℹ️   Per maggiori informazioni sul AWS Partner Network (APN) dai un'occhiata [qui](https://aws.amazon.com/it/partners/)
 
+🎓 È consigliato aver sostenuto la certificazione [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) per seguire questa serie. Per dare un'occhiata ai materiali per questa certificazione [andate qui](https://www.aws.training/Details/Curriculum?id=27076). Inoltre, seguite le sessioni dedicate su  📺 [PartnerCast](https://aws.amazon.com/partners/training/partnercast/?partnercast-training-webinar-cards.sort-by=item.additionalFields.sortText&amp;partnercast-training-webinar-cards.sort-order=asc&amp;awsf.partnercast-training-webinar-filter-content-type=event-type%23virtual&amp;awsf.partnercast-training-webinar-filter-language=language%23italian)
+
 Episodio | Di cosa abbiamo parlato...
 ------------ | -------------
 [Uno](ep1/ep1.risorse.md) | _Introduzione all'esame, Domain 1: Design Resilient Architectures_
