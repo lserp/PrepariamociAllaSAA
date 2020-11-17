@@ -13,10 +13,7 @@ accessibile gratuitamente se tu o la tua azienda fate parte della [AWS Partner N
 Episodio | Di cosa abbiamo parlato...
 ------------ | -------------
 [Uno](ep1/ep1.risorse.md) | _Introduzione all'esame, Domain 1: Design Resilient Architectures_
-Due | TBD
+[Due](ep2/ep2.risorse.md) | _Domain 2: Design High Performing Architectures_
 Tre | TBD
-Quattro | TBD
-Cinque | TBD
-Sei | TBD
 
 ✨ Per migliorare la qualità di questo repo, non esitare ad aprire [PR](https://github.com/lserpietri/PrepariamociAllaSAA/pulls) e [Issues](https://github.com/lserpietri/PrepariamociAllaSAA/issues)
